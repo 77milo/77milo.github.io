@@ -1,0 +1,18 @@
+body {
+  background-color: #212f3d;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: blueviolet;
+}
+.infos_margin {
+  margin-left: 50px;
+}
+.infos_link1 {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: #ffffff;
+}
